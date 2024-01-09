@@ -27,4 +27,4 @@ KPI List
 4. Stage Funnel by Revenue
 5. No of meeting By Account Exe
 6-Top Open Opportunity
-![Uploading image.png…]()
+
